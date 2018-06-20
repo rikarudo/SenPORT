@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"replacement","l":"Replacement"},{"p":"split","l":"SentenceSplitter"},{"p":"examples","l":"SentenceSplitterExample"}]
+typeSearchIndex = [{"p":"examples","l":"SentenceSplitterExample"}]
